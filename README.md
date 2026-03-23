@@ -194,4 +194,4 @@ All game assets (shapes and colors) are built using Unity's default
 2D primitive sprites. No external assets were used.
 
 ## Author
-[YOUR NAME]
+Cannelle MWIZA
